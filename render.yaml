@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: odoo18-app
+    runtime: python
+    buildCommand: |
+      ./install_wkhtmltopdf.sh
+      pip install -r requirements.txt
+    startCommand: python3 odoo-bin -c odoo.conf
+    envVars:
+      - key: DB_HOST
+        fromService:
+          name: odoo18-db
+          type: pserv
+      - key: DB_PORT
+        value: 5432
+      - key: DB_USER
+        fromDatabase:
+          name: odoo18-db
+          property: user
+      - key: DB_PASSWORD
+        fromDatabase:
+          name: odoo18-db
+          property: password
+      - key: DB_NAME
+        fromDatabase:
+          name: odoo18-db
+          property: database
+
+databases:
+  - name: odoo18-db
+    databaseName: odoo
+    user: odoo
