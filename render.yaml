@@ -8,9 +8,8 @@ services:
     startCommand: python3 odoo-bin -c odoo.conf
     envVars:
       - key: DB_HOST
-        fromService:
+        fromDatabase:
           name: odoo18-db
-          type: pserv
           property: host
       - key: DB_PORT
         value: 5432
