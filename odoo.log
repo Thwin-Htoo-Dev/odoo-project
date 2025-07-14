@@ -1,0 +1,566 @@
+2025-07-07 09:44:51,594 6108 INFO ? odoo: Odoo version 18.0 
+2025-07-07 09:44:51,595 6108 INFO ? odoo: Using configuration file at C:\Users\thmm\odoo\odoo.conf 
+2025-07-07 09:44:51,595 6108 INFO ? odoo: addons paths: ['C:\\Users\\thmm\\odoo\\odoo\\addons', 'c:\\users\\thmm\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\thmm\\odoo\\addons', 'c:\\users\\thmm\\odoo\\odoo\\addons'] 
+2025-07-07 09:44:51,595 6108 INFO ? odoo: database: odoo@localhost:5432 
+2025-07-07 09:44:51,819 6108 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-07-07 09:44:51,819 6108 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-07-07 09:44:52,280 6108 INFO ? odoo.service.server: HTTP service (werkzeug) running on FA-643-23.mit.com.mm:8069 
+2025-07-07 09:44:52,625 6108 INFO ? odoo.modules.loading: loading 1 modules... 
+2025-07-07 09:44:52,625 6108 INFO ? odoo.modules.loading: 1 modules loaded in 0.00s, 0 queries (+0 extra) 
+2025-07-07 09:44:53,151 6108 INFO ? odoo.modules.loading: loading 40 modules... 
+2025-07-07 09:44:53,769 6108 INFO ? odoo.modules.loading: 40 modules loaded in 0.62s, 0 queries (+0 extra) 
+2025-07-07 09:44:53,821 6108 INFO ? odoo.modules.loading: Modules loaded. 
+2025-07-07 09:44:53,821 6108 INFO ? odoo.modules.registry: Registry loaded in 1.257s 
+2025-07-07 09:44:53,821 6108 INFO odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2025-07-07 09:44:53,853 6108 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 09:44:53] "GET /websocket?version=18.0-5 HTTP/1.1" 101 - 21 0.023 1.269
+2025-07-07 09:44:54,209 6108 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2025-07-07 09:44:54,270 6108 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 09:44:54] "POST /bus/has_missed_notifications HTTP/1.1" 200 - 2 0.005 0.075
+2025-07-07 09:46:17,306 6108 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-07 09:46:17,306 6108 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-07 09:49:02,508 10096 INFO ? odoo: Odoo version 18.0 
+2025-07-07 09:49:02,508 10096 INFO ? odoo: Using configuration file at C:\Users\thmm\odoo\odoo.conf 
+2025-07-07 09:49:02,508 10096 INFO ? odoo: addons paths: ['C:\\Users\\thmm\\odoo\\odoo\\addons', 'c:\\users\\thmm\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\thmm\\odoo\\addons', 'c:\\users\\thmm\\odoo\\odoo\\addons'] 
+2025-07-07 09:49:02,508 10096 INFO ? odoo: database: odoo@localhost:5432 
+2025-07-07 09:49:02,760 10096 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-07-07 09:49:02,763 10096 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-07-07 09:49:03,173 10096 INFO ? odoo.service.server: HTTP service (werkzeug) running on FA-643-23.mit.com.mm:8069 
+2025-07-07 09:49:49,451 10096 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-07 09:49:49,451 10096 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-07 09:49:49,678 10096 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 2 connections  
+2025-07-07 09:55:27,019 7172 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-07-07 09:55:27,019 7172 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-07-07 09:55:27,019 7172 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 09:55:27,019 7172 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-07-07 09:55:27,019 7172 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-07-07 09:55:27,019 7172 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 09:55:27,019 7172 INFO ? odoo: Odoo version 18.0 
+2025-07-07 09:55:27,019 7172 INFO ? odoo: Using configuration file at C:\Users\thmm\odoo\odoo.conf 
+2025-07-07 09:55:27,019 7172 INFO ? odoo: addons paths: ['C:\\Users\\thmm\\odoo\\odoo\\addons', 'c:\\users\\thmm\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\thmm\\odoo\\addons', 'c:\\users\\thmm\\odoo\\odoo\\addons'] 
+2025-07-07 09:55:27,019 7172 INFO ? odoo: database: odoo@localhost:5432 
+2025-07-07 09:55:27,134 7172 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-07-07 09:55:27,149 7172 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-07-07 09:55:27,409 7172 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-07-07 09:55:27,416 7172 INFO ? odoo.service.server: HTTP service (werkzeug) running on FA-643-23.mit.com.mm:8069 
+2025-07-07 09:55:27,416 7172 DEBUG ? odoo.service.server: cron0 started! 
+2025-07-07 09:55:27,416 7172 DEBUG ? odoo.service.server: cron1 started! 
+2025-07-07 09:56:09,169 7172 DEBUG ? odoo.http: HTTP sessions stored in: c:\users\thmm\appdata\local\openerp s.a\odoo\sessions 
+2025-07-07 09:56:09,233 7172 DEBUG ? odoo.modules.registry: Multiprocess load registry signaling: [Registry: 5] [Cache default: 1] [Cache assets: 1] [Cache templates: 1] [Cache routing: 1] [Cache groups: 1] 
+2025-07-07 09:56:09,233 7172 INFO ? odoo.modules.loading: loading 1 modules... 
+2025-07-07 09:56:09,233 7172 DEBUG ? odoo.modules.loading: Loading module base (1/1) 
+2025-07-07 09:56:09,233 7172 DEBUG ? odoo.modules.loading: Module base loaded in 0.00s, 0 queries 
+2025-07-07 09:56:09,233 7172 INFO ? odoo.modules.loading: 1 modules loaded in 0.00s, 0 queries (+0 extra) 
+2025-07-07 09:56:09,718 7172 DEBUG ? odoo.modules.loading: Updating graph with 39 more modules 
+2025-07-07 09:56:09,718 7172 INFO ? odoo.modules.loading: loading 40 modules... 
+2025-07-07 09:56:09,718 7172 DEBUG ? odoo.modules.loading: Loading module web (2/40) 
+2025-07-07 09:56:09,718 7172 DEBUG ? odoo.modules.loading: Module web loaded in 0.00s, 0 queries 
+2025-07-07 09:56:09,718 7172 DEBUG ? odoo.modules.loading: Loading module auth_totp (3/40) 
+2025-07-07 09:56:09,743 7172 DEBUG ? odoo.modules.loading: Module auth_totp loaded in 0.02s, 0 queries 
+2025-07-07 09:56:09,743 7172 DEBUG ? odoo.modules.loading: Loading module base_import (4/40) 
+2025-07-07 09:56:09,925 7172 DEBUG ? odoo.modules.loading: Module base_import loaded in 0.18s, 0 queries 
+2025-07-07 09:56:09,925 7172 DEBUG ? odoo.modules.loading: Loading module base_import_module (5/40) 
+2025-07-07 09:56:09,934 7172 DEBUG ? odoo.modules.loading: Module base_import_module loaded in 0.01s, 0 queries 
+2025-07-07 09:56:09,934 7172 DEBUG ? odoo.modules.loading: Loading module base_setup (6/40) 
+2025-07-07 09:56:09,938 7172 DEBUG ? odoo.modules.loading: Module base_setup loaded in 0.00s, 0 queries 
+2025-07-07 09:56:09,938 7172 DEBUG ? odoo.modules.loading: Loading module bus (7/40) 
+2025-07-07 09:56:09,956 7172 DEBUG ? odoo.modules.loading: Module bus loaded in 0.02s, 0 queries 
+2025-07-07 09:56:09,956 7172 DEBUG ? odoo.modules.loading: Loading module http_routing (8/40) 
+2025-07-07 09:56:09,956 7172 DEBUG ? odoo.modules.loading: Module http_routing loaded in 0.00s, 0 queries 
+2025-07-07 09:56:09,956 7172 DEBUG ? odoo.modules.loading: Loading module resource (9/40) 
+2025-07-07 09:56:09,975 7172 DEBUG ? odoo.modules.loading: Module resource loaded in 0.02s, 0 queries 
+2025-07-07 09:56:09,975 7172 DEBUG ? odoo.modules.loading: Loading module utm (10/40) 
+2025-07-07 09:56:09,994 7172 DEBUG ? odoo.modules.loading: Module utm loaded in 0.02s, 0 queries 
+2025-07-07 09:56:09,994 7172 DEBUG ? odoo.modules.loading: Loading module web_tour (11/40) 
+2025-07-07 09:56:09,997 7172 DEBUG ? odoo.modules.loading: Module web_tour loaded in 0.00s, 0 queries 
+2025-07-07 09:56:09,997 7172 DEBUG ? odoo.modules.loading: Loading module html_editor (12/40) 
+2025-07-07 09:56:10,119 7172 DEBUG ? odoo.modules.loading: Module html_editor loaded in 0.12s, 0 queries 
+2025-07-07 09:56:10,119 7172 DEBUG ? odoo.modules.loading: Loading module iap (13/40) 
+2025-07-07 09:56:10,119 7172 DEBUG ? odoo.modules.loading: Module iap loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,119 7172 DEBUG ? odoo.modules.loading: Loading module mail (14/40) 
+2025-07-07 09:56:10,119 7172 DEBUG ? odoo.modules.loading: Module mail loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,119 7172 DEBUG ? odoo.modules.loading: Loading module web_editor (15/40) 
+2025-07-07 09:56:10,177 7172 DEBUG ? odoo.modules.loading: Module web_editor loaded in 0.06s, 0 queries 
+2025-07-07 09:56:10,177 7172 DEBUG ? odoo.modules.loading: Loading module auth_signup (16/40) 
+2025-07-07 09:56:10,177 7172 DEBUG ? odoo.modules.loading: Module auth_signup loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,177 7172 DEBUG ? odoo.modules.loading: Loading module auth_totp_mail (17/40) 
+2025-07-07 09:56:10,193 7172 DEBUG ? odoo.modules.loading: Module auth_totp_mail loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,193 7172 DEBUG ? odoo.modules.loading: Loading module base_install_request (18/40) 
+2025-07-07 09:56:10,193 7172 DEBUG ? odoo.modules.loading: Module base_install_request loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,193 7172 DEBUG ? odoo.modules.loading: Loading module calendar (19/40) 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Module calendar loaded in 0.03s, 0 queries 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Loading module contacts (20/40) 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Module contacts loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Loading module google_gmail (21/40) 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Module google_gmail loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Loading module iap_mail (22/40) 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Module iap_mail loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,220 7172 DEBUG ? odoo.modules.loading: Loading module mail_bot (23/40) 
+2025-07-07 09:56:10,238 7172 DEBUG ? odoo.modules.loading: Module mail_bot loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,238 7172 DEBUG ? odoo.modules.loading: Loading module phone_validation (24/40) 
+2025-07-07 09:56:10,238 7172 DEBUG ? odoo.modules.loading: Module phone_validation loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,238 7172 DEBUG ? odoo.modules.loading: Loading module privacy_lookup (25/40) 
+2025-07-07 09:56:10,254 7172 DEBUG ? odoo.modules.loading: Module privacy_lookup loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,254 7172 DEBUG ? odoo.modules.loading: Loading module resource_mail (26/40) 
+2025-07-07 09:56:10,254 7172 DEBUG ? odoo.modules.loading: Module resource_mail loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,254 7172 DEBUG ? odoo.modules.loading: Loading module sales_team (27/40) 
+2025-07-07 09:56:10,269 7172 DEBUG ? odoo.modules.loading: Module sales_team loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,269 7172 DEBUG ? odoo.modules.loading: Loading module web_unsplash (28/40) 
+2025-07-07 09:56:10,273 7172 DEBUG ? odoo.modules.loading: Module web_unsplash loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,273 7172 DEBUG ? odoo.modules.loading: Loading module partner_autocomplete (29/40) 
+2025-07-07 09:56:10,279 7172 DEBUG ? odoo.modules.loading: Module partner_autocomplete loaded in 0.01s, 0 queries 
+2025-07-07 09:56:10,279 7172 DEBUG ? odoo.modules.loading: Loading module portal (30/40) 
+2025-07-07 09:56:10,295 7172 DEBUG ? odoo.modules.loading: Module portal loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,295 7172 DEBUG ? odoo.modules.loading: Loading module sms (31/40) 
+2025-07-07 09:56:10,319 7172 DEBUG ? odoo.modules.loading: Module sms loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,319 7172 DEBUG ? odoo.modules.loading: Loading module snailmail (32/40) 
+2025-07-07 09:56:10,337 7172 DEBUG ? odoo.modules.loading: Module snailmail loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,337 7172 DEBUG ? odoo.modules.loading: Loading module auth_totp_portal (33/40) 
+2025-07-07 09:56:10,339 7172 DEBUG ? odoo.modules.loading: Module auth_totp_portal loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,339 7172 DEBUG ? odoo.modules.loading: Loading module calendar_sms (34/40) 
+2025-07-07 09:56:10,341 7172 DEBUG ? odoo.modules.loading: Module calendar_sms loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,341 7172 DEBUG ? odoo.modules.loading: Loading module digest (35/40) 
+2025-07-07 09:56:10,351 7172 DEBUG ? odoo.modules.loading: Module digest loaded in 0.01s, 0 queries 
+2025-07-07 09:56:10,351 7172 DEBUG ? odoo.modules.loading: Loading module crm (36/40) 
+2025-07-07 09:56:10,370 7172 DEBUG ? odoo.modules.loading: Module crm loaded in 0.02s, 0 queries 
+2025-07-07 09:56:10,370 7172 DEBUG ? odoo.modules.loading: Loading module crm_sms (37/40) 
+2025-07-07 09:56:10,370 7172 DEBUG ? odoo.modules.loading: Module crm_sms loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,370 7172 DEBUG ? odoo.modules.loading: Loading module iap_crm (38/40) 
+2025-07-07 09:56:10,382 7172 DEBUG ? odoo.modules.loading: Module iap_crm loaded in 0.01s, 0 queries 
+2025-07-07 09:56:10,382 7172 DEBUG ? odoo.modules.loading: Loading module crm_iap_enrich (39/40) 
+2025-07-07 09:56:10,383 7172 DEBUG ? odoo.modules.loading: Module crm_iap_enrich loaded in 0.00s, 0 queries 
+2025-07-07 09:56:10,383 7172 DEBUG ? odoo.modules.loading: Loading module crm_iap_mine (40/40) 
+2025-07-07 09:56:10,392 7172 DEBUG ? odoo.modules.loading: Module crm_iap_mine loaded in 0.01s, 0 queries 
+2025-07-07 09:56:10,392 7172 INFO ? odoo.modules.loading: 40 modules loaded in 0.67s, 0 queries (+0 extra) 
+2025-07-07 09:56:10,452 7172 INFO ? odoo.modules.loading: Modules loaded. 
+2025-07-07 09:56:10,452 7172 INFO ? odoo.modules.registry: Registry loaded in 1.283s 
+2025-07-07 09:56:10,452 7172 INFO odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2025-07-07 09:56:10,481 7172 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 09:56:10] "GET /websocket?version=18.0-5 HTTP/1.1" 101 - 21 0.016 1.298
+2025-07-07 09:56:10,838 7172 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 09:56:10] "POST /bus/has_missed_notifications HTTP/1.1" 200 - 2 0.000 0.037
+2025-07-07 09:56:10,886 7172 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2025-07-07 09:56:27,474 7172 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 09:56:28,524 7172 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 09:56:41,858 7172 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-07 09:56:41,858 7172 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-07 09:56:41,970 7172 DEBUG ? odoo.service.server: on_close call <bound method Event.set of <threading.Event at 0x217c90f8710: unset>> 
+2025-07-07 09:56:41,970 7172 DEBUG ? odoo.service.server: on_close call <function _kick_all at 0x00000217C91351C0> 
+2025-07-07 09:56:41,970 7172 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 9152)> 
+2025-07-07 09:56:41,972 7172 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 9152)> (False) 
+2025-07-07 09:56:41,973 7172 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 16836)> (True) 
+2025-07-07 09:56:41,973 7172 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 700)> (True) 
+2025-07-07 09:56:41,973 7172 DEBUG ? odoo.service.server: process <Thread(odoo.service.http.request.14604, started 14604)> (False) 
+2025-07-07 09:56:41,973 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,081 7172 DEBUG ? odoo.service.server: process <ImDispatch(odoo.addons.bus.models.bus.Bus, stopped daemon 12500)> (True) 
+2025-07-07 09:56:42,081 7172 DEBUG ? odoo.service.server: process <Thread(odoo.service.http.request.11696, started 11696)> (False) 
+2025-07-07 09:56:42,081 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,190 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,305 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,421 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,534 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,647 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,759 7172 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 09:56:42,876 7172 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 4 connections  
+2025-07-07 09:56:42,879 7172 DEBUG ? odoo.service.server: -- 
+2025-07-07 09:58:46,059 8072 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-07-07 09:58:46,059 8072 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-07-07 09:58:46,059 8072 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 09:58:46,059 8072 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-07-07 09:58:46,059 8072 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-07-07 09:58:46,059 8072 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 09:58:46,059 8072 INFO ? odoo: Odoo version 18.0 
+2025-07-07 09:58:46,059 8072 INFO ? odoo: Using configuration file at C:\Users\thmm\odoo\odoo.conf 
+2025-07-07 09:58:46,059 8072 INFO ? odoo: addons paths: ['C:\\Users\\thmm\\odoo\\odoo\\addons', 'c:\\users\\thmm\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\thmm\\odoo\\addons', 'c:\\users\\thmm\\odoo\\odoo\\addons'] 
+2025-07-07 09:58:46,059 8072 INFO ? odoo: database: odoo@localhost:5432 
+2025-07-07 09:58:46,174 8072 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-07-07 09:58:46,190 8072 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-07-07 09:58:46,499 8072 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-07-07 09:58:46,507 8072 INFO ? odoo.service.server: HTTP service (werkzeug) running on FA-643-23.mit.com.mm:8069 
+2025-07-07 09:58:46,507 8072 DEBUG ? odoo.service.server: cron0 started! 
+2025-07-07 09:58:46,507 8072 DEBUG ? odoo.service.server: cron1 started! 
+2025-07-07 09:59:03,719 8072 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-07 09:59:03,719 8072 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-07 09:59:04,188 8072 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 544)> 
+2025-07-07 09:59:04,188 8072 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 544)> (False) 
+2025-07-07 09:59:04,188 8072 DEBUG ? odoo.service.server: process <Thread(odoo.service.httpd, started daemon 7280)> (True) 
+2025-07-07 09:59:04,188 8072 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 15260)> (True) 
+2025-07-07 09:59:04,188 8072 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 8476)> (True) 
+2025-07-07 09:59:04,190 8072 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 2 connections  
+2025-07-07 09:59:04,190 8072 DEBUG ? odoo.service.server: -- 
+2025-07-07 10:00:52,832 11564 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-07-07 10:00:52,832 11564 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-07-07 10:00:52,832 11564 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 10:00:52,832 11564 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-07-07 10:00:52,832 11564 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-07-07 10:00:52,832 11564 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 10:00:52,832 11564 INFO ? odoo: Odoo version 18.0 
+2025-07-07 10:00:52,832 11564 INFO ? odoo: Using configuration file at C:\Users\thmm\odoo\odoo.conf 
+2025-07-07 10:00:52,832 11564 INFO ? odoo: addons paths: ['C:\\Users\\thmm\\odoo\\odoo\\addons', 'c:\\users\\thmm\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\thmm\\odoo\\addons', 'c:\\users\\thmm\\odoo\\odoo\\addons'] 
+2025-07-07 10:00:52,832 11564 INFO ? odoo: database: odoo@localhost:5432 
+2025-07-07 10:00:52,949 11564 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-07-07 10:00:52,965 11564 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-07-07 10:00:53,223 11564 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-07-07 10:00:53,230 11564 INFO ? odoo.service.server: HTTP service (werkzeug) running on FA-643-23.mit.com.mm:8069 
+2025-07-07 10:00:53,232 11564 DEBUG ? odoo.service.server: cron0 started! 
+2025-07-07 10:00:53,232 11564 DEBUG ? odoo.service.server: cron1 started! 
+2025-07-07 10:01:31,335 11564 DEBUG ? odoo.http: HTTP sessions stored in: c:\users\thmm\appdata\local\openerp s.a\odoo\sessions 
+2025-07-07 10:01:31,395 11564 DEBUG ? odoo.modules.registry: Multiprocess load registry signaling: [Registry: 5] [Cache default: 1] [Cache assets: 1] [Cache templates: 1] [Cache routing: 1] [Cache groups: 1] 
+2025-07-07 10:01:31,395 11564 INFO ? odoo.modules.loading: loading 1 modules... 
+2025-07-07 10:01:31,395 11564 DEBUG ? odoo.modules.loading: Loading module base (1/1) 
+2025-07-07 10:01:31,395 11564 DEBUG ? odoo.modules.loading: Module base loaded in 0.00s, 0 queries 
+2025-07-07 10:01:31,411 11564 INFO ? odoo.modules.loading: 1 modules loaded in 0.02s, 0 queries (+0 extra) 
+2025-07-07 10:01:31,891 11564 DEBUG ? odoo.modules.loading: Updating graph with 39 more modules 
+2025-07-07 10:01:31,891 11564 INFO ? odoo.modules.loading: loading 40 modules... 
+2025-07-07 10:01:31,891 11564 DEBUG ? odoo.modules.loading: Loading module web (2/40) 
+2025-07-07 10:01:31,891 11564 DEBUG ? odoo.modules.loading: Module web loaded in 0.00s, 0 queries 
+2025-07-07 10:01:31,891 11564 DEBUG ? odoo.modules.loading: Loading module auth_totp (3/40) 
+2025-07-07 10:01:31,912 11564 DEBUG ? odoo.modules.loading: Module auth_totp loaded in 0.02s, 0 queries 
+2025-07-07 10:01:31,912 11564 DEBUG ? odoo.modules.loading: Loading module base_import (4/40) 
+2025-07-07 10:01:32,120 11564 DEBUG ? odoo.modules.loading: Module base_import loaded in 0.21s, 0 queries 
+2025-07-07 10:01:32,120 11564 DEBUG ? odoo.modules.loading: Loading module base_import_module (5/40) 
+2025-07-07 10:01:32,129 11564 DEBUG ? odoo.modules.loading: Module base_import_module loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,129 11564 DEBUG ? odoo.modules.loading: Loading module base_setup (6/40) 
+2025-07-07 10:01:32,136 11564 DEBUG ? odoo.modules.loading: Module base_setup loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,136 11564 DEBUG ? odoo.modules.loading: Loading module bus (7/40) 
+2025-07-07 10:01:32,142 11564 DEBUG ? odoo.modules.loading: Module bus loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,142 11564 DEBUG ? odoo.modules.loading: Loading module http_routing (8/40) 
+2025-07-07 10:01:32,158 11564 DEBUG ? odoo.modules.loading: Module http_routing loaded in 0.02s, 0 queries 
+2025-07-07 10:01:32,158 11564 DEBUG ? odoo.modules.loading: Loading module resource (9/40) 
+2025-07-07 10:01:32,174 11564 DEBUG ? odoo.modules.loading: Module resource loaded in 0.02s, 0 queries 
+2025-07-07 10:01:32,174 11564 DEBUG ? odoo.modules.loading: Loading module utm (10/40) 
+2025-07-07 10:01:32,174 11564 DEBUG ? odoo.modules.loading: Module utm loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,174 11564 DEBUG ? odoo.modules.loading: Loading module web_tour (11/40) 
+2025-07-07 10:01:32,174 11564 DEBUG ? odoo.modules.loading: Module web_tour loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,174 11564 DEBUG ? odoo.modules.loading: Loading module html_editor (12/40) 
+2025-07-07 10:01:32,298 11564 DEBUG ? odoo.modules.loading: Module html_editor loaded in 0.12s, 0 queries 
+2025-07-07 10:01:32,298 11564 DEBUG ? odoo.modules.loading: Loading module iap (13/40) 
+2025-07-07 10:01:32,298 11564 DEBUG ? odoo.modules.loading: Module iap loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,298 11564 DEBUG ? odoo.modules.loading: Loading module mail (14/40) 
+2025-07-07 10:01:32,298 11564 DEBUG ? odoo.modules.loading: Module mail loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,298 11564 DEBUG ? odoo.modules.loading: Loading module web_editor (15/40) 
+2025-07-07 10:01:32,338 11564 DEBUG ? odoo.modules.loading: Module web_editor loaded in 0.04s, 0 queries 
+2025-07-07 10:01:32,338 11564 DEBUG ? odoo.modules.loading: Loading module auth_signup (16/40) 
+2025-07-07 10:01:32,357 11564 DEBUG ? odoo.modules.loading: Module auth_signup loaded in 0.02s, 0 queries 
+2025-07-07 10:01:32,357 11564 DEBUG ? odoo.modules.loading: Loading module auth_totp_mail (17/40) 
+2025-07-07 10:01:32,361 11564 DEBUG ? odoo.modules.loading: Module auth_totp_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,361 11564 DEBUG ? odoo.modules.loading: Loading module base_install_request (18/40) 
+2025-07-07 10:01:32,364 11564 DEBUG ? odoo.modules.loading: Module base_install_request loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,364 11564 DEBUG ? odoo.modules.loading: Loading module calendar (19/40) 
+2025-07-07 10:01:32,374 11564 DEBUG ? odoo.modules.loading: Module calendar loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,374 11564 DEBUG ? odoo.modules.loading: Loading module contacts (20/40) 
+2025-07-07 10:01:32,384 11564 DEBUG ? odoo.modules.loading: Module contacts loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,384 11564 DEBUG ? odoo.modules.loading: Loading module google_gmail (21/40) 
+2025-07-07 10:01:32,384 11564 DEBUG ? odoo.modules.loading: Module google_gmail loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,384 11564 DEBUG ? odoo.modules.loading: Loading module iap_mail (22/40) 
+2025-07-07 10:01:32,384 11564 DEBUG ? odoo.modules.loading: Module iap_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,384 11564 DEBUG ? odoo.modules.loading: Loading module mail_bot (23/40) 
+2025-07-07 10:01:32,397 11564 DEBUG ? odoo.modules.loading: Module mail_bot loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,397 11564 DEBUG ? odoo.modules.loading: Loading module phone_validation (24/40) 
+2025-07-07 10:01:32,397 11564 DEBUG ? odoo.modules.loading: Module phone_validation loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,397 11564 DEBUG ? odoo.modules.loading: Loading module privacy_lookup (25/40) 
+2025-07-07 10:01:32,413 11564 DEBUG ? odoo.modules.loading: Module privacy_lookup loaded in 0.02s, 0 queries 
+2025-07-07 10:01:32,413 11564 DEBUG ? odoo.modules.loading: Loading module resource_mail (26/40) 
+2025-07-07 10:01:32,413 11564 DEBUG ? odoo.modules.loading: Module resource_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,413 11564 DEBUG ? odoo.modules.loading: Loading module sales_team (27/40) 
+2025-07-07 10:01:32,413 11564 DEBUG ? odoo.modules.loading: Module sales_team loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,413 11564 DEBUG ? odoo.modules.loading: Loading module web_unsplash (28/40) 
+2025-07-07 10:01:32,428 11564 DEBUG ? odoo.modules.loading: Module web_unsplash loaded in 0.02s, 0 queries 
+2025-07-07 10:01:32,428 11564 DEBUG ? odoo.modules.loading: Loading module partner_autocomplete (29/40) 
+2025-07-07 10:01:32,438 11564 DEBUG ? odoo.modules.loading: Module partner_autocomplete loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,438 11564 DEBUG ? odoo.modules.loading: Loading module portal (30/40) 
+2025-07-07 10:01:32,449 11564 DEBUG ? odoo.modules.loading: Module portal loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,449 11564 DEBUG ? odoo.modules.loading: Loading module sms (31/40) 
+2025-07-07 10:01:32,469 11564 DEBUG ? odoo.modules.loading: Module sms loaded in 0.02s, 0 queries 
+2025-07-07 10:01:32,469 11564 DEBUG ? odoo.modules.loading: Loading module snailmail (32/40) 
+2025-07-07 10:01:32,481 11564 DEBUG ? odoo.modules.loading: Module snailmail loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,481 11564 DEBUG ? odoo.modules.loading: Loading module auth_totp_portal (33/40) 
+2025-07-07 10:01:32,483 11564 DEBUG ? odoo.modules.loading: Module auth_totp_portal loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,483 11564 DEBUG ? odoo.modules.loading: Loading module calendar_sms (34/40) 
+2025-07-07 10:01:32,485 11564 DEBUG ? odoo.modules.loading: Module calendar_sms loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,485 11564 DEBUG ? odoo.modules.loading: Loading module digest (35/40) 
+2025-07-07 10:01:32,485 11564 DEBUG ? odoo.modules.loading: Module digest loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,485 11564 DEBUG ? odoo.modules.loading: Loading module crm (36/40) 
+2025-07-07 10:01:32,515 11564 DEBUG ? odoo.modules.loading: Module crm loaded in 0.03s, 0 queries 
+2025-07-07 10:01:32,515 11564 DEBUG ? odoo.modules.loading: Loading module crm_sms (37/40) 
+2025-07-07 10:01:32,515 11564 DEBUG ? odoo.modules.loading: Module crm_sms loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,515 11564 DEBUG ? odoo.modules.loading: Loading module iap_crm (38/40) 
+2025-07-07 10:01:32,520 11564 DEBUG ? odoo.modules.loading: Module iap_crm loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,520 11564 DEBUG ? odoo.modules.loading: Loading module crm_iap_enrich (39/40) 
+2025-07-07 10:01:32,520 11564 DEBUG ? odoo.modules.loading: Module crm_iap_enrich loaded in 0.00s, 0 queries 
+2025-07-07 10:01:32,520 11564 DEBUG ? odoo.modules.loading: Loading module crm_iap_mine (40/40) 
+2025-07-07 10:01:32,529 11564 DEBUG ? odoo.modules.loading: Module crm_iap_mine loaded in 0.01s, 0 queries 
+2025-07-07 10:01:32,529 11564 INFO ? odoo.modules.loading: 40 modules loaded in 0.64s, 0 queries (+0 extra) 
+2025-07-07 10:01:32,569 11564 INFO ? odoo.modules.loading: Modules loaded. 
+2025-07-07 10:01:32,585 11564 INFO ? odoo.modules.registry: Registry loaded in 1.248s 
+2025-07-07 10:01:32,585 11564 INFO odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2025-07-07 10:01:32,608 11564 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 10:01:32] "GET /websocket?version=18.0-5 HTTP/1.1" 101 - 21 0.031 1.247
+2025-07-07 10:01:32,984 11564 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 10:01:32] "POST /bus/has_missed_notifications HTTP/1.1" 200 - 2 0.016 0.038
+2025-07-07 10:01:33,027 11564 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2025-07-07 10:01:53,283 11564 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 10:01:54,344 11564 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 10:02:47,863 16368 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-07-07 10:02:47,863 16368 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-07-07 10:02:47,863 16368 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 10:02:47,863 16368 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-07-07 10:02:47,863 16368 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-07-07 10:02:47,863 16368 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 10:02:47,863 16368 INFO ? odoo: Odoo version 18.0 
+2025-07-07 10:02:47,864 16368 INFO ? odoo: Using configuration file at C:\Users\thmm\odoo\odoo.conf 
+2025-07-07 10:02:47,864 16368 INFO ? odoo: addons paths: ['C:\\Users\\thmm\\odoo\\odoo\\addons', 'c:\\users\\thmm\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\thmm\\odoo\\addons', 'c:\\users\\thmm\\odoo\\odoo\\addons'] 
+2025-07-07 10:02:47,864 16368 INFO ? odoo: database: odoo@localhost:5432 
+2025-07-07 10:02:48,180 16368 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-07-07 10:02:48,191 16368 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-07-07 10:02:48,596 16368 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-07-07 10:02:48,603 16368 INFO ? odoo.service.server: HTTP service (werkzeug) running on FA-643-23.mit.com.mm:8069 
+2025-07-07 10:02:48,603 16368 DEBUG ? odoo.service.server: cron0 started! 
+2025-07-07 10:02:48,603 16368 DEBUG ? odoo.service.server: cron1 started! 
+2025-07-07 10:02:48,855 16368 DEBUG ? odoo.http: HTTP sessions stored in: c:\users\thmm\appdata\local\openerp s.a\odoo\sessions 
+2025-07-07 10:02:48,925 16368 DEBUG ? odoo.modules.registry: Multiprocess load registry signaling: [Registry: 5] [Cache default: 1] [Cache assets: 1] [Cache templates: 1] [Cache routing: 1] [Cache groups: 1] 
+2025-07-07 10:02:48,928 16368 INFO ? odoo.modules.loading: loading 1 modules... 
+2025-07-07 10:02:48,928 16368 DEBUG ? odoo.modules.loading: Loading module base (1/1) 
+2025-07-07 10:02:48,937 16368 DEBUG ? odoo.modules.loading: Module base loaded in 0.01s, 0 queries 
+2025-07-07 10:02:48,937 16368 INFO ? odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2025-07-07 10:02:48,956 16368 DEBUG ? odoo.modules.loading: Updating graph with 39 more modules 
+2025-07-07 10:02:48,956 16368 INFO ? odoo.modules.loading: loading 40 modules... 
+2025-07-07 10:02:48,956 16368 DEBUG ? odoo.modules.loading: Loading module web (2/40) 
+2025-07-07 10:02:48,956 16368 DEBUG ? odoo.modules.loading: Module web loaded in 0.00s, 0 queries 
+2025-07-07 10:02:48,956 16368 DEBUG ? odoo.modules.loading: Loading module auth_totp (3/40) 
+2025-07-07 10:02:48,972 16368 DEBUG ? odoo.modules.loading: Module auth_totp loaded in 0.02s, 0 queries 
+2025-07-07 10:02:48,972 16368 DEBUG ? odoo.modules.loading: Loading module base_import (4/40) 
+2025-07-07 10:02:49,161 16368 DEBUG ? odoo.modules.loading: Module base_import loaded in 0.19s, 0 queries 
+2025-07-07 10:02:49,161 16368 DEBUG ? odoo.modules.loading: Loading module base_import_module (5/40) 
+2025-07-07 10:02:49,168 16368 DEBUG ? odoo.modules.loading: Module base_import_module loaded in 0.01s, 0 queries 
+2025-07-07 10:02:49,168 16368 DEBUG ? odoo.modules.loading: Loading module base_setup (6/40) 
+2025-07-07 10:02:49,168 16368 DEBUG ? odoo.modules.loading: Module base_setup loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,168 16368 DEBUG ? odoo.modules.loading: Loading module bus (7/40) 
+2025-07-07 10:02:49,192 16368 DEBUG ? odoo.modules.loading: Module bus loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,192 16368 DEBUG ? odoo.modules.loading: Loading module http_routing (8/40) 
+2025-07-07 10:02:49,192 16368 DEBUG ? odoo.modules.loading: Module http_routing loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,192 16368 DEBUG ? odoo.modules.loading: Loading module resource (9/40) 
+2025-07-07 10:02:49,217 16368 DEBUG ? odoo.modules.loading: Module resource loaded in 0.03s, 0 queries 
+2025-07-07 10:02:49,217 16368 DEBUG ? odoo.modules.loading: Loading module utm (10/40) 
+2025-07-07 10:02:49,226 16368 DEBUG ? odoo.modules.loading: Module utm loaded in 0.01s, 0 queries 
+2025-07-07 10:02:49,226 16368 DEBUG ? odoo.modules.loading: Loading module web_tour (11/40) 
+2025-07-07 10:02:49,226 16368 DEBUG ? odoo.modules.loading: Module web_tour loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,226 16368 DEBUG ? odoo.modules.loading: Loading module html_editor (12/40) 
+2025-07-07 10:02:49,345 16368 DEBUG ? odoo.modules.loading: Module html_editor loaded in 0.12s, 0 queries 
+2025-07-07 10:02:49,345 16368 DEBUG ? odoo.modules.loading: Loading module iap (13/40) 
+2025-07-07 10:02:49,345 16368 DEBUG ? odoo.modules.loading: Module iap loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,345 16368 DEBUG ? odoo.modules.loading: Loading module mail (14/40) 
+2025-07-07 10:02:49,345 16368 DEBUG ? odoo.modules.loading: Module mail loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,345 16368 DEBUG ? odoo.modules.loading: Loading module web_editor (15/40) 
+2025-07-07 10:02:49,359 16368 DEBUG ? odoo.modules.loading: Module web_editor loaded in 0.01s, 0 queries 
+2025-07-07 10:02:49,359 16368 DEBUG ? odoo.modules.loading: Loading module auth_signup (16/40) 
+2025-07-07 10:02:49,375 16368 DEBUG ? odoo.modules.loading: Module auth_signup loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,375 16368 DEBUG ? odoo.modules.loading: Loading module auth_totp_mail (17/40) 
+2025-07-07 10:02:49,375 16368 DEBUG ? odoo.modules.loading: Module auth_totp_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,375 16368 DEBUG ? odoo.modules.loading: Loading module base_install_request (18/40) 
+2025-07-07 10:02:49,375 16368 DEBUG ? odoo.modules.loading: Module base_install_request loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,375 16368 DEBUG ? odoo.modules.loading: Loading module calendar (19/40) 
+2025-07-07 10:02:49,392 16368 DEBUG ? odoo.modules.loading: Module calendar loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,392 16368 DEBUG ? odoo.modules.loading: Loading module contacts (20/40) 
+2025-07-07 10:02:49,392 16368 DEBUG ? odoo.modules.loading: Module contacts loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,392 16368 DEBUG ? odoo.modules.loading: Loading module google_gmail (21/40) 
+2025-07-07 10:02:49,412 16368 DEBUG ? odoo.modules.loading: Module google_gmail loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,412 16368 DEBUG ? odoo.modules.loading: Loading module iap_mail (22/40) 
+2025-07-07 10:02:49,412 16368 DEBUG ? odoo.modules.loading: Module iap_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,412 16368 DEBUG ? odoo.modules.loading: Loading module mail_bot (23/40) 
+2025-07-07 10:02:49,412 16368 DEBUG ? odoo.modules.loading: Module mail_bot loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,412 16368 DEBUG ? odoo.modules.loading: Loading module phone_validation (24/40) 
+2025-07-07 10:02:49,432 16368 DEBUG ? odoo.modules.loading: Module phone_validation loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,432 16368 DEBUG ? odoo.modules.loading: Loading module privacy_lookup (25/40) 
+2025-07-07 10:02:49,440 16368 DEBUG ? odoo.modules.loading: Module privacy_lookup loaded in 0.01s, 0 queries 
+2025-07-07 10:02:49,440 16368 DEBUG ? odoo.modules.loading: Loading module resource_mail (26/40) 
+2025-07-07 10:02:49,443 16368 DEBUG ? odoo.modules.loading: Module resource_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,443 16368 DEBUG ? odoo.modules.loading: Loading module sales_team (27/40) 
+2025-07-07 10:02:49,450 16368 DEBUG ? odoo.modules.loading: Module sales_team loaded in 0.01s, 0 queries 
+2025-07-07 10:02:49,450 16368 DEBUG ? odoo.modules.loading: Loading module web_unsplash (28/40) 
+2025-07-07 10:02:49,453 16368 DEBUG ? odoo.modules.loading: Module web_unsplash loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,453 16368 DEBUG ? odoo.modules.loading: Loading module partner_autocomplete (29/40) 
+2025-07-07 10:02:49,453 16368 DEBUG ? odoo.modules.loading: Module partner_autocomplete loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,453 16368 DEBUG ? odoo.modules.loading: Loading module portal (30/40) 
+2025-07-07 10:02:49,485 16368 DEBUG ? odoo.modules.loading: Module portal loaded in 0.03s, 0 queries 
+2025-07-07 10:02:49,485 16368 DEBUG ? odoo.modules.loading: Loading module sms (31/40) 
+2025-07-07 10:02:49,508 16368 DEBUG ? odoo.modules.loading: Module sms loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,508 16368 DEBUG ? odoo.modules.loading: Loading module snailmail (32/40) 
+2025-07-07 10:02:49,514 16368 DEBUG ? odoo.modules.loading: Module snailmail loaded in 0.01s, 0 queries 
+2025-07-07 10:02:49,514 16368 DEBUG ? odoo.modules.loading: Loading module auth_totp_portal (33/40) 
+2025-07-07 10:02:49,514 16368 DEBUG ? odoo.modules.loading: Module auth_totp_portal loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,514 16368 DEBUG ? odoo.modules.loading: Loading module calendar_sms (34/40) 
+2025-07-07 10:02:49,514 16368 DEBUG ? odoo.modules.loading: Module calendar_sms loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,530 16368 DEBUG ? odoo.modules.loading: Loading module digest (35/40) 
+2025-07-07 10:02:49,532 16368 DEBUG ? odoo.modules.loading: Module digest loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,532 16368 DEBUG ? odoo.modules.loading: Loading module crm (36/40) 
+2025-07-07 10:02:49,549 16368 DEBUG ? odoo.modules.loading: Module crm loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,549 16368 DEBUG ? odoo.modules.loading: Loading module crm_sms (37/40) 
+2025-07-07 10:02:49,549 16368 DEBUG ? odoo.modules.loading: Module crm_sms loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,549 16368 DEBUG ? odoo.modules.loading: Loading module iap_crm (38/40) 
+2025-07-07 10:02:49,565 16368 DEBUG ? odoo.modules.loading: Module iap_crm loaded in 0.02s, 0 queries 
+2025-07-07 10:02:49,565 16368 DEBUG ? odoo.modules.loading: Loading module crm_iap_enrich (39/40) 
+2025-07-07 10:02:49,565 16368 DEBUG ? odoo.modules.loading: Module crm_iap_enrich loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,565 16368 DEBUG ? odoo.modules.loading: Loading module crm_iap_mine (40/40) 
+2025-07-07 10:02:49,565 16368 DEBUG ? odoo.modules.loading: Module crm_iap_mine loaded in 0.00s, 0 queries 
+2025-07-07 10:02:49,565 16368 INFO ? odoo.modules.loading: 40 modules loaded in 0.61s, 0 queries (+0 extra) 
+2025-07-07 10:02:49,624 16368 INFO ? odoo.modules.loading: Modules loaded. 
+2025-07-07 10:02:49,624 16368 INFO ? odoo.modules.registry: Registry loaded in 0.765s 
+2025-07-07 10:02:49,624 16368 INFO odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2025-07-07 10:02:49,658 16368 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 10:02:49] "GET /websocket?version=18.0-5 HTTP/1.1" 101 - 21 0.044 0.760
+2025-07-07 10:02:50,028 16368 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 10:02:50] "POST /bus/has_missed_notifications HTTP/1.1" 200 - 2 0.001 0.050
+2025-07-07 10:02:50,064 16368 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2025-07-07 10:03:48,663 16368 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 10:03:49,706 16368 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 10:04:48,667 16368 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 10:04:50,726 16368 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 10:05:48,689 16368 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 10:05:51,736 16368 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 10:06:48,695 16368 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 10:06:52,756 16368 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 10:07:48,700 16368 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 10:07:53,779 16368 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 10:08:01,357 16368 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-07 10:08:01,357 16368 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-07 10:08:01,773 16368 DEBUG ? odoo.service.server: on_close call <bound method Event.set of <threading.Event at 0x249789c2ba0: unset>> 
+2025-07-07 10:08:01,773 16368 DEBUG ? odoo.service.server: on_close call <function _kick_all at 0x0000024978B95260> 
+2025-07-07 10:08:01,773 16368 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 4664)> 
+2025-07-07 10:08:01,775 16368 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 4664)> (False) 
+2025-07-07 10:08:01,776 16368 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 12428)> (True) 
+2025-07-07 10:08:01,776 16368 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 13704)> (True) 
+2025-07-07 10:08:01,776 16368 DEBUG ? odoo.service.server: process <Thread(odoo.service.http.request.2168, started 2168)> (False) 
+2025-07-07 10:08:01,776 16368 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:08:01,890 16368 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:08:01,944 16368 DEBUG ? odoo.service.server: process <ImDispatch(odoo.addons.bus.models.bus.Bus, stopped daemon 3012)> (True) 
+2025-07-07 10:08:01,944 16368 DEBUG ? odoo.service.server: process <Thread(odoo.service.http.request.11452, started 11452)> (False) 
+2025-07-07 10:08:01,944 16368 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:08:02,055 16368 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:08:02,171 16368 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:08:02,284 16368 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:08:02,397 16368 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 4 connections  
+2025-07-07 10:08:02,397 16368 DEBUG ? odoo.service.server: -- 
+2025-07-07 10:09:39,143 5428 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-07-07 10:09:39,143 5428 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-07-07 10:09:39,143 5428 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 10:09:39,143 5428 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-07-07 10:09:39,143 5428 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-07-07 10:09:39,143 5428 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-07-07 10:09:39,143 5428 INFO ? odoo: Odoo version 18.0 
+2025-07-07 10:09:39,143 5428 INFO ? odoo: Using configuration file at C:\Users\thmm\odoo\odoo.conf 
+2025-07-07 10:09:39,143 5428 INFO ? odoo: addons paths: ['C:\\Users\\thmm\\odoo\\odoo\\addons', 'c:\\users\\thmm\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\thmm\\odoo\\addons', 'c:\\users\\thmm\\odoo\\odoo\\addons'] 
+2025-07-07 10:09:39,143 5428 INFO ? odoo: database: odoo@localhost:5432 
+2025-07-07 10:09:39,267 5428 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-07-07 10:09:39,270 5428 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-07-07 10:09:39,561 5428 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-07-07 10:09:39,567 5428 INFO ? odoo.service.server: HTTP service (werkzeug) running on FA-643-23.mit.com.mm:8069 
+2025-07-07 10:09:39,567 5428 DEBUG ? odoo.service.server: cron0 started! 
+2025-07-07 10:09:39,567 5428 DEBUG ? odoo.service.server: cron1 started! 
+2025-07-07 10:10:14,076 5428 DEBUG ? odoo.http: HTTP sessions stored in: c:\users\thmm\appdata\local\openerp s.a\odoo\sessions 
+2025-07-07 10:10:14,145 5428 DEBUG ? odoo.modules.registry: Multiprocess load registry signaling: [Registry: 5] [Cache default: 1] [Cache assets: 1] [Cache templates: 1] [Cache routing: 1] [Cache groups: 1] 
+2025-07-07 10:10:14,149 5428 INFO ? odoo.modules.loading: loading 1 modules... 
+2025-07-07 10:10:14,149 5428 DEBUG ? odoo.modules.loading: Loading module base (1/1) 
+2025-07-07 10:10:14,160 5428 DEBUG ? odoo.modules.loading: Module base loaded in 0.01s, 0 queries 
+2025-07-07 10:10:14,160 5428 INFO ? odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2025-07-07 10:10:14,217 5428 DEBUG ? odoo.modules.loading: Updating graph with 39 more modules 
+2025-07-07 10:10:14,218 5428 INFO ? odoo.modules.loading: loading 40 modules... 
+2025-07-07 10:10:14,218 5428 DEBUG ? odoo.modules.loading: Loading module web (2/40) 
+2025-07-07 10:10:14,218 5428 DEBUG ? odoo.modules.loading: Module web loaded in 0.00s, 0 queries 
+2025-07-07 10:10:14,218 5428 DEBUG ? odoo.modules.loading: Loading module auth_totp (3/40) 
+2025-07-07 10:10:14,255 5428 DEBUG ? odoo.modules.loading: Module auth_totp loaded in 0.04s, 0 queries 
+2025-07-07 10:10:14,255 5428 DEBUG ? odoo.modules.loading: Loading module base_import (4/40) 
+2025-07-07 10:10:14,748 5428 DEBUG ? odoo.modules.loading: Module base_import loaded in 0.49s, 0 queries 
+2025-07-07 10:10:14,748 5428 DEBUG ? odoo.modules.loading: Loading module base_import_module (5/40) 
+2025-07-07 10:10:14,759 5428 DEBUG ? odoo.modules.loading: Module base_import_module loaded in 0.01s, 0 queries 
+2025-07-07 10:10:14,759 5428 DEBUG ? odoo.modules.loading: Loading module base_setup (6/40) 
+2025-07-07 10:10:14,768 5428 DEBUG ? odoo.modules.loading: Module base_setup loaded in 0.01s, 0 queries 
+2025-07-07 10:10:14,768 5428 DEBUG ? odoo.modules.loading: Loading module bus (7/40) 
+2025-07-07 10:10:14,794 5428 DEBUG ? odoo.modules.loading: Module bus loaded in 0.03s, 0 queries 
+2025-07-07 10:10:14,794 5428 DEBUG ? odoo.modules.loading: Loading module http_routing (8/40) 
+2025-07-07 10:10:14,809 5428 DEBUG ? odoo.modules.loading: Module http_routing loaded in 0.01s, 0 queries 
+2025-07-07 10:10:14,809 5428 DEBUG ? odoo.modules.loading: Loading module resource (9/40) 
+2025-07-07 10:10:14,837 5428 DEBUG ? odoo.modules.loading: Module resource loaded in 0.03s, 0 queries 
+2025-07-07 10:10:14,837 5428 DEBUG ? odoo.modules.loading: Loading module utm (10/40) 
+2025-07-07 10:10:14,851 5428 DEBUG ? odoo.modules.loading: Module utm loaded in 0.01s, 0 queries 
+2025-07-07 10:10:14,851 5428 DEBUG ? odoo.modules.loading: Loading module web_tour (11/40) 
+2025-07-07 10:10:14,856 5428 DEBUG ? odoo.modules.loading: Module web_tour loaded in 0.00s, 0 queries 
+2025-07-07 10:10:14,856 5428 DEBUG ? odoo.modules.loading: Loading module html_editor (12/40) 
+2025-07-07 10:10:15,067 5428 DEBUG ? odoo.modules.loading: Module html_editor loaded in 0.21s, 0 queries 
+2025-07-07 10:10:15,067 5428 DEBUG ? odoo.modules.loading: Loading module iap (13/40) 
+2025-07-07 10:10:15,067 5428 DEBUG ? odoo.modules.loading: Module iap loaded in 0.00s, 0 queries 
+2025-07-07 10:10:15,067 5428 DEBUG ? odoo.modules.loading: Loading module mail (14/40) 
+2025-07-07 10:10:15,078 5428 DEBUG ? odoo.modules.loading: Module mail loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,078 5428 DEBUG ? odoo.modules.loading: Loading module web_editor (15/40) 
+2025-07-07 10:10:15,106 5428 DEBUG ? odoo.modules.loading: Module web_editor loaded in 0.03s, 0 queries 
+2025-07-07 10:10:15,106 5428 DEBUG ? odoo.modules.loading: Loading module auth_signup (16/40) 
+2025-07-07 10:10:15,116 5428 DEBUG ? odoo.modules.loading: Module auth_signup loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,116 5428 DEBUG ? odoo.modules.loading: Loading module auth_totp_mail (17/40) 
+2025-07-07 10:10:15,120 5428 DEBUG ? odoo.modules.loading: Module auth_totp_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:10:15,120 5428 DEBUG ? odoo.modules.loading: Loading module base_install_request (18/40) 
+2025-07-07 10:10:15,128 5428 DEBUG ? odoo.modules.loading: Module base_install_request loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,128 5428 DEBUG ? odoo.modules.loading: Loading module calendar (19/40) 
+2025-07-07 10:10:15,182 5428 DEBUG ? odoo.modules.loading: Module calendar loaded in 0.05s, 0 queries 
+2025-07-07 10:10:15,182 5428 DEBUG ? odoo.modules.loading: Loading module contacts (20/40) 
+2025-07-07 10:10:15,188 5428 DEBUG ? odoo.modules.loading: Module contacts loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,188 5428 DEBUG ? odoo.modules.loading: Loading module google_gmail (21/40) 
+2025-07-07 10:10:15,201 5428 DEBUG ? odoo.modules.loading: Module google_gmail loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,201 5428 DEBUG ? odoo.modules.loading: Loading module iap_mail (22/40) 
+2025-07-07 10:10:15,205 5428 DEBUG ? odoo.modules.loading: Module iap_mail loaded in 0.00s, 0 queries 
+2025-07-07 10:10:15,205 5428 DEBUG ? odoo.modules.loading: Loading module mail_bot (23/40) 
+2025-07-07 10:10:15,219 5428 DEBUG ? odoo.modules.loading: Module mail_bot loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,219 5428 DEBUG ? odoo.modules.loading: Loading module phone_validation (24/40) 
+2025-07-07 10:10:15,249 5428 DEBUG ? odoo.modules.loading: Module phone_validation loaded in 0.03s, 0 queries 
+2025-07-07 10:10:15,250 5428 DEBUG ? odoo.modules.loading: Loading module privacy_lookup (25/40) 
+2025-07-07 10:10:15,263 5428 DEBUG ? odoo.modules.loading: Module privacy_lookup loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,263 5428 DEBUG ? odoo.modules.loading: Loading module resource_mail (26/40) 
+2025-07-07 10:10:15,268 5428 DEBUG ? odoo.modules.loading: Module resource_mail loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,268 5428 DEBUG ? odoo.modules.loading: Loading module sales_team (27/40) 
+2025-07-07 10:10:15,304 5428 DEBUG ? odoo.modules.loading: Module sales_team loaded in 0.04s, 0 queries 
+2025-07-07 10:10:15,304 5428 DEBUG ? odoo.modules.loading: Loading module web_unsplash (28/40) 
+2025-07-07 10:10:15,345 5428 DEBUG ? odoo.modules.loading: Module web_unsplash loaded in 0.04s, 0 queries 
+2025-07-07 10:10:15,345 5428 DEBUG ? odoo.modules.loading: Loading module partner_autocomplete (29/40) 
+2025-07-07 10:10:15,360 5428 DEBUG ? odoo.modules.loading: Module partner_autocomplete loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,360 5428 DEBUG ? odoo.modules.loading: Loading module portal (30/40) 
+2025-07-07 10:10:15,389 5428 DEBUG ? odoo.modules.loading: Module portal loaded in 0.03s, 0 queries 
+2025-07-07 10:10:15,389 5428 DEBUG ? odoo.modules.loading: Loading module sms (31/40) 
+2025-07-07 10:10:15,431 5428 DEBUG ? odoo.modules.loading: Module sms loaded in 0.04s, 0 queries 
+2025-07-07 10:10:15,431 5428 DEBUG ? odoo.modules.loading: Loading module snailmail (32/40) 
+2025-07-07 10:10:15,454 5428 DEBUG ? odoo.modules.loading: Module snailmail loaded in 0.02s, 0 queries 
+2025-07-07 10:10:15,454 5428 DEBUG ? odoo.modules.loading: Loading module auth_totp_portal (33/40) 
+2025-07-07 10:10:15,467 5428 DEBUG ? odoo.modules.loading: Module auth_totp_portal loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,467 5428 DEBUG ? odoo.modules.loading: Loading module calendar_sms (34/40) 
+2025-07-07 10:10:15,472 5428 DEBUG ? odoo.modules.loading: Module calendar_sms loaded in 0.00s, 0 queries 
+2025-07-07 10:10:15,472 5428 DEBUG ? odoo.modules.loading: Loading module digest (35/40) 
+2025-07-07 10:10:15,486 5428 DEBUG ? odoo.modules.loading: Module digest loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,486 5428 DEBUG ? odoo.modules.loading: Loading module crm (36/40) 
+2025-07-07 10:10:15,526 5428 DEBUG ? odoo.modules.loading: Module crm loaded in 0.04s, 0 queries 
+2025-07-07 10:10:15,526 5428 DEBUG ? odoo.modules.loading: Loading module crm_sms (37/40) 
+2025-07-07 10:10:15,528 5428 DEBUG ? odoo.modules.loading: Module crm_sms loaded in 0.00s, 0 queries 
+2025-07-07 10:10:15,531 5428 DEBUG ? odoo.modules.loading: Loading module iap_crm (38/40) 
+2025-07-07 10:10:15,536 5428 DEBUG ? odoo.modules.loading: Module iap_crm loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,536 5428 DEBUG ? odoo.modules.loading: Loading module crm_iap_enrich (39/40) 
+2025-07-07 10:10:15,545 5428 DEBUG ? odoo.modules.loading: Module crm_iap_enrich loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,545 5428 DEBUG ? odoo.modules.loading: Loading module crm_iap_mine (40/40) 
+2025-07-07 10:10:15,555 5428 DEBUG ? odoo.modules.loading: Module crm_iap_mine loaded in 0.01s, 0 queries 
+2025-07-07 10:10:15,555 5428 INFO ? odoo.modules.loading: 40 modules loaded in 1.34s, 0 queries (+0 extra) 
+2025-07-07 10:10:15,662 5428 INFO ? odoo.modules.loading: Modules loaded. 
+2025-07-07 10:10:15,669 5428 INFO ? odoo.modules.registry: Registry loaded in 1.593s 
+2025-07-07 10:10:15,671 5428 INFO odoo odoo.addons.base.models.ir_http: Generating routing map for key None 
+2025-07-07 10:10:15,707 5428 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 10:10:15] "GET /websocket?version=18.0-5 HTTP/1.1" 101 - 21 0.039 1.592
+2025-07-07 10:10:16,047 5428 INFO odoo werkzeug: 127.0.0.1 - - [07/Jul/2025 10:10:16] "POST /bus/has_missed_notifications HTTP/1.1" 200 - 2 0.000 0.002
+2025-07-07 10:10:16,128 5428 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2025-07-07 10:10:39,606 5428 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-07-07 10:10:40,667 5428 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-07-07 10:10:43,405 5428 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-07 10:10:43,405 5428 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-07 10:10:43,625 5428 DEBUG ? odoo.service.server: on_close call <bound method Event.set of <threading.Event at 0x1b5d84db680: unset>> 
+2025-07-07 10:10:43,625 5428 DEBUG ? odoo.service.server: on_close call <function _kick_all at 0x000001B5D8545260> 
+2025-07-07 10:10:43,625 5428 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 1204)> 
+2025-07-07 10:10:43,625 5428 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 1204)> (False) 
+2025-07-07 10:10:43,625 5428 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 17744)> (True) 
+2025-07-07 10:10:43,625 5428 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 11436)> (True) 
+2025-07-07 10:10:43,626 5428 DEBUG ? odoo.service.server: process <Thread(odoo.service.http.request.4840, started 4840)> (False) 
+2025-07-07 10:10:43,626 5428 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:10:43,757 5428 DEBUG ? odoo.service.server: process <ImDispatch(odoo.addons.bus.models.bus.Bus, stopped daemon 7292)> (True) 
+2025-07-07 10:10:43,757 5428 DEBUG ? odoo.service.server: process <Thread(odoo.service.http.request.8340, started 8340)> (False) 
+2025-07-07 10:10:43,757 5428 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:10:43,873 5428 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:10:43,984 5428 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:10:44,091 5428 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:10:44,193 5428 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:10:44,300 5428 DEBUG ? odoo.service.server: join and sleep 
+2025-07-07 10:10:44,410 5428 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 3 connections  
+2025-07-07 10:10:44,410 5428 DEBUG ? odoo.service.server: -- 
