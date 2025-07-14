@@ -11,6 +11,7 @@ services:
         fromService:
           name: odoo18-db
           type: pserv
+          property: host
       - key: DB_PORT
         value: 5432
       - key: DB_USER
