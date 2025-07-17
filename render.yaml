@@ -2,12 +2,20 @@ services:
   - type: web
     name: odoo18-app
     runtime: python
+
+    # ✅ Python version locked to 3.11.5 to avoid Pillow and Odoo issues
     build:
-      pythonVersion: 3.11.5  # ✅ This line fixes the Pillow error
+      pythonVersion: 3.11.5
+
+    # ✅ Custom build command
     buildCommand: |
+      chmod +x ./install_wkhtmltopdf.sh  # make sure script is executable
       ./install_wkhtmltopdf.sh
       pip install -r requirements.txt
+
+    # ✅ Start Odoo with config file
     startCommand: python3 odoo-bin -c odoo.conf
+
     envVars:
       - key: DB_HOST
         fromDatabase:
